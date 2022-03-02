@@ -8,14 +8,12 @@ function Banner() {
     <Container>
       <Row
         className="align-items-center banner"
-        style={{ padding: "4rem 10rem 0" }}
+        style={{ paddingTop: "4rem" }}
       >
         <Col md={6}>
           <h5>Ki Name Dhake Bolbo Tomake</h5>
           <h1 className="fw-bolder">
-            We Are Consulting For Your
-            <br />
-            Business Finances
+            We Are Consulting For Your Business Finances
           </h1>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
