@@ -1,0 +1,8 @@
+@media all and (min-width: 320px) and (max-width: 992px) {
+  .banner {
+    padding: 4rem 0 0 !important;
+  }
+  .banner-img {
+    margin-top: 5rem;
+  }
+}

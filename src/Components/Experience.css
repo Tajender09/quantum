@@ -1,0 +1,8 @@
+@media all and (min-width: 320px) and (max-width: 992px){
+    .experience{
+        margin: 7rem 0!important;
+    }
+    .exp-img{
+        margin-top: 2rem!important;
+    }
+}
